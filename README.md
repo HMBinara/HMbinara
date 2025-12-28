@@ -1,7 +1,11 @@
-# Hi 👋, I'm Binara Nethranjana Adhikari
-### 🚀 Aspiring Data Scientist | UI/UX Designer | Building AI Solutions
+<div align="center">
 
----
+# Hi 👋, I'm Binara Nethranjana Adhikari
+### 🚀 Aspiring Data Scientist | Data Analyst | UI/UX Designer (Figma)
+
+<img src="https://raw.githubusercontent.com/moca-c/moca-c/main/assets/line.gif" width="100%">
+
+</div>
 
 ### 🌟 About Me
 - 🎓 **Undergraduate** at Eastern University of Sri Lanka.
@@ -35,20 +39,17 @@
 
 ---
 
-### 📊 GitHub Analytics
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=hmbinara&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs?username=hmbinara&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
+<div align="center">
 
-<p align="center">
-  <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=hmbinara&theme=tokyonight&hide_border=true" />
-</p>
+### 📊 GitHub Analytics
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=hmbinara&show_icons=true&theme=material-palenight&hide_border=true" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs?username=hmbinara&show_icons=true&locale=en&layout=compact&theme=material-palenight&hide_border=true" />
+
+<img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=hmbinara&theme=material-palenight&hide_border=true" />
 
 ---
 
 ### 🤝 Let's Connect!
-<p align="left">
 <a href="https://linkedin.com/in/binara-nethranjana-adhikari" target="blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
@@ -61,10 +62,8 @@
 <a href="mailto:binaranethranganaadikari@gmail.com">
   <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
-</p>
 
-<br />
+<br><br>
+<img src="https://raw.githubusercontent.com/moca-c/moca-c/main/assets/line.gif" width="100%">
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/moca-c/moca-c/main/assets/line.gif" width="100%">
-</p>
+</div>
