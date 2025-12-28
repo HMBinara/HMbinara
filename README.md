@@ -1,15 +1,10 @@
 # Hi 👋, I'm Binara Nethranjana Adhikari
 ### Aspiring Data Scientist | UI/UX Designer | Building AI Solutions
 
-<p align="left">
-<img src="https://komarev.com/ghpvc/?username=hmbinara&label=Profile%20views&color=0e75b6&style=flat-square" alt="hmbinara" />
-</p>
-
 ---
 
 ### 🚀 About Me
 - 🎓 **Undergraduate** at Eastern University of Sri Lanka.
-- 🔭 Currently working on: **"Chat with Multiple PDFs"** (GenAI Tool).
 - 🌱 Learning: **Large Language Models (LLMs) & Vector Databases.**
 - 💬 Ask me about: **Python, Figma, ML & Data Visualization.**
 - 📫 Reach me at: **binaranethranganaadikari@gmail.com**
